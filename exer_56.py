@@ -21,15 +21,17 @@ while gen not in ['m', 'f']:
         print('por favor, digite um genero valido')
 
 
-"""A resolução que o professor trouxe é bem mais enxuta,
+"""
+A resolução que o professor trouxe é bem mais enxuta,
 segue o codigo:
 
  sexo = str(input('informe seu sexo: [M] ou [F]\n')).strip().upper()[0]
  while sexo not in 'MmFf':
     sexo = str(input('dados invalidos, por favor informe seu sexo: [M] ou [F]\n')).strip().upper()[0]
 print(f'sexo {sexo} registrado com sucesso'
+"""
 
- """
-
-"""O que eram 9 linhas de codigo (com excessão dos comentários)
-viraram 4 linhas, alem de parecer bem mais profissional"""
+"""
+O que eram 9 linhas de codigo (com excessão dos comentários)
+viraram 4 linhas, alem de parecer bem mais profissional
+"""
