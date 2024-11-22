@@ -1,12 +1,12 @@
 # 🐍 Curso de Python - Exercícios Resolvidos  
 
 Este repositório contém a resolução de exercícios propostos pelo Prof. Gustavo Guanabara no curso de **Python** no site **Curso em Vídeo**. 
-Todos os exercícios estão comentados para facilitar o entendimento e o raciocínio utilizado em cada solução.
+Todos os exercícios têm enunciado e estão comentados para facilitar o entendimento e o raciocínio utilizado em cada solução.
 
 ---
 
 ## 📚 **Conteúdo**  
-Os exercícios abordam diferentes níveis de dificuldade e cobrem diversos conceitos fundamentais e avançados de programação em Python, tais como:  
+Os exercícios abordam diferentes níveis de dificuldade e cobrem diversos conceitos em Python, tais como:  
 
 - Variáveis e Tipos de Dados  
 - Operadores Aritméticos, Lógicos e Relacionais  
