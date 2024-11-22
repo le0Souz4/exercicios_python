@@ -8,5 +8,5 @@ sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 dias = int(input('por quantos dias o carro foi alugado?: ')) * 60
 km_rodado = float(input('agora informe quantos kms foram rodados: ')) * 0.15
 total = dias + km_rodado
-print(f'ok, o total de dias alugados ficou em {dias} reais e o total de kms rodados ficou em {km_rodado} reais')
+print(f'ok, o total de dias alugados ficou em {dias} reais \no total de kms rodados ficou em {km_rodado} reais')
 print(f'sua conta ficou no total de {total} reais')
