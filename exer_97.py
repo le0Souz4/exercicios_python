@@ -41,5 +41,3 @@ passo = int(input("passo: "))
 # Crio variáveis para alocar os valores e em seguida passo como parâmetros da função
 contador(inicio, fim, passo)
 
-Se precisar de explicações sobre o código, Leo, é só avisar!
-
