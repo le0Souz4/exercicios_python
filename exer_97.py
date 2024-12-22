@@ -1,4 +1,3 @@
-Segue o código transcrito da imagem:
 
 """
 Faça um programa que tenha uma função chamada contador()  
